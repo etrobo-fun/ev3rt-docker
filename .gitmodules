@@ -1,0 +1,3 @@
+[submodule "shiokara-z"]
+	path = shiokara-z
+	url = git@github.com:etrobo-fun/etrobo2022-shiokara_z.git
